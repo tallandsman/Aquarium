@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CheckSolution
+comment1.params=
+comment1.target=CheckSolution()
+comment1.text=\n\ Non-constructor\ for\ objects\ of\ class\ CheckSolution\n
+comment2.params=p
+comment2.target=int[]\ rowCounts(Aquarium)
+comment2.text=\n\ Returns\ the\ number\ of\ water\ squares\ in\ each\ row\ of\ Aquarium\ puzzle\ p,\ top\ down.\n
+comment3.params=p
+comment3.target=int[]\ columnCounts(Aquarium)
+comment3.text=\n\ Returns\ the\ number\ of\ water\ squares\ in\ each\ column\ of\ Aquarium\ puzzle\ p,\ left\ to\ right.\n
+comment4.params=p\ t\ r
+comment4.target=int[]\ rowStatus(Aquarium,\ int,\ int)
+comment4.text=\n\ Returns\ a\ 2-int\ array\ denoting\ the\ collective\ status\ of\ the\ spaces\ \n\ in\ the\ aquarium\ numbered\ t\ on\ Row\ r\ of\ Aquarium\ puzzle\ p.\ \n\ The\ second\ element\ will\ be\ the\ column\ index\ c\ of\ any\ space\ r,c\ which\ is\ in\ t,\ or\ -1\ if\ there\ is\ none.\ \n\ The\ first\ element\ will\ be\:\ \n\ 0\ if\ there\ are\ no\ spaces\ in\ t\ on\ Row\ r;\ \n\ 1\ if\ they're\ all\ water;\ \n\ 2\ if\ they're\ all\ not-water;\ or\ \n\ 3\ if\ they're\ a\ mixture\ of\ water\ and\ not-water.\ \n
+comment5.params=p\ t
+comment5.target=java.lang.String\ isAquariumOK(Aquarium,\ int)
+comment5.text=\n\ Returns\ a\ statement\ on\ whether\ the\ aquarium\ numbered\ t\ in\ Aquarium\ puzzle\ p\ is\ OK.\ \n\ Every\ row\ must\ be\ either\ all\ water\ or\ all\ not-water,\ \n\ and\ all\ water\ must\ be\ below\ all\ not-water.\ \n\ Returns\ ""\ if\ the\ aquarium\ is\ ok;\ otherwise\ \n\ returns\ the\ indices\ of\ any\ square\ in\ the\ aquarium,\ in\ the\ format\ "r,c".\ \n
+comment6.params=p
+comment6.target=java.lang.String\ isSolution(Aquarium)
+comment6.text=\n\ Returns\ a\ statement\ on\ whether\ we\ have\ a\ correct\ solution\ to\ Aquarium\ puzzle\ p.\ \n\ Every\ row\ and\ column\ must\ have\ the\ correct\ number\ of\ water\ squares,\ \n\ and\ all\ aquariums\ must\ be\ OK.\ \n\ Returns\ three\ ticks\ if\ the\ solution\ is\ correct;\ \n\ otherwise\ see\ the\ LMS\ page\ for\ the\ expected\ results.\ \n
+numComments=7

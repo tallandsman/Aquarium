@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AquariumTest
+comment0.text=\n\ This\ class\ provides\ unit\ test\ cases\ for\ the\ Aquarium\ class.\n\ @author\ Lyndon\ While\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment2.params=
+comment2.target=void\ testAquarium()
+comment3.params=
+comment3.target=void\ testparseLine()
+comment4.params=
+comment4.target=void\ testleftClick()
+comment5.params=
+comment5.target=void\ testrightClick()
+comment6.params=
+comment6.target=void\ testleftandrightClick()
+comment7.params=
+comment7.target=void\ testclear()
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AquariumViewerTest
+comment0.text=\n\ This\ class\ provides\ unit\ test\ cases\ for\ the\ AquariumViewer\ class.\n\ @author\ Lyndon\ While\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment2.params=
+comment2.target=void\ testBoardViewer()
+comment3.params=
+comment3.target=void\ testdisplaymethods()
+numComments=4
