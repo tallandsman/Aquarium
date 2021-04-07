@@ -1,8 +1,8 @@
 /**
  * AquariumViewer represents an interface for playing a game of Aquarium.
  *
- * @Tal Ashkenazy Landsman(22981003), John Pillai(22983679) 
- * @2020, 1.0
+ * @Author Tal Ashkenazy Landsman(22981003), John Pillai(22983679) 
+ * @Version 2020, 1.0
  */
 import java.awt.*;
 import java.awt.event.*; 
