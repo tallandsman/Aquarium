@@ -1,8 +1,8 @@
 /**
  * Aquarium represents a single problem in the game Aquarium.
  *
- * @Tal Ashkenazy Landsman(22981003), John Pillai(22983679) 
- * @2020, 1.0
+ * @Author Tal Ashkenazy Landsman(22981003), John Pillai(22983679) 
+ * @Edition 2020, 1.0
  */
 public class Aquarium
 {
